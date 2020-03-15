@@ -1,0 +1,44 @@
+Dict from src/main/resources/Part1.txt has 4308 words and it's size is approximately 172320 bytes. 
+Dict from src/main/resources/Part2.txt has 4532 words and it's size is approximately 181280 bytes. 
+Dict from src/main/resources/Part3.txt has 3844 words and it's size is approximately 153760 bytes. 
+Dict from src/main/resources/Part4.txt has 4096 words and it's size is approximately 163840 bytes. 
+Dict from src/main/resources/Part5.txt has 3749 words and it's size is approximately 149960 bytes. 
+Dict from src/main/resources/Part6.txt has 4301 words and it's size is approximately 172040 bytes. 
+Dict from src/main/resources/Part7.txt has 4432 words and it's size is approximately 177280 bytes. 
+Dict from src/main/resources/Part8.txt has 4266 words and it's size is approximately 170640 bytes. 
+Dict from src/main/resources/Part9.txt has 4221 words and it's size is approximately 168840 bytes. 
+Dict from src/main/resources/Part10.txt has 4051 words and it's size is approximately 162040 bytes. 
+Dict from all files has 13785 words and it's size is approximately 551400 bytes. 
+Dict from src/main/resources/Part1.txt has 4308 words and it's size is approximately 172320 bytes. 
+Dict from src/main/resources/Part2.txt has 4532 words and it's size is approximately 181280 bytes. 
+Dict from src/main/resources/Part3.txt has 3844 words and it's size is approximately 153760 bytes. 
+Dict from src/main/resources/Part4.txt has 4096 words and it's size is approximately 163840 bytes. 
+Dict from src/main/resources/Part5.txt has 3749 words and it's size is approximately 149960 bytes. 
+Dict from src/main/resources/Part6.txt has 4301 words and it's size is approximately 172040 bytes. 
+Dict from src/main/resources/Part7.txt has 4432 words and it's size is approximately 177280 bytes. 
+Dict from src/main/resources/Part8.txt has 4266 words and it's size is approximately 170640 bytes. 
+Dict from src/main/resources/Part9.txt has 4221 words and it's size is approximately 168840 bytes. 
+Dict from src/main/resources/Part10.txt has 4051 words and it's size is approximately 162040 bytes. 
+Dict from all files has 13785 words and it's size is approximately 551400 bytes. 
+Dict from src/main/resources/Part1.txt has 4308 words and it's size is approximately 172320 bytes. 
+Dict from src/main/resources/Part2.txt has 4532 words and it's size is approximately 181280 bytes. 
+Dict from src/main/resources/Part3.txt has 3844 words and it's size is approximately 153760 bytes. 
+Dict from src/main/resources/Part4.txt has 4096 words and it's size is approximately 163840 bytes. 
+Dict from src/main/resources/Part5.txt has 3749 words and it's size is approximately 149960 bytes. 
+Dict from src/main/resources/Part6.txt has 4301 words and it's size is approximately 172040 bytes. 
+Dict from src/main/resources/Part7.txt has 4432 words and it's size is approximately 177280 bytes. 
+Dict from src/main/resources/Part8.txt has 4266 words and it's size is approximately 170640 bytes. 
+Dict from src/main/resources/Part9.txt has 4221 words and it's size is approximately 168840 bytes. 
+Dict from src/main/resources/Part10.txt has 4051 words and it's size is approximately 162040 bytes. 
+Dict from all files has 13785 words and it's size is approximately 551400 bytes. 
+Dict from src/main/resources/Part1.txt has 4308 words and it's size is approximately 172320 bytes. 
+Dict from src/main/resources/Part2.txt has 4532 words and it's size is approximately 181280 bytes. 
+Dict from src/main/resources/Part3.txt has 3844 words and it's size is approximately 153760 bytes. 
+Dict from src/main/resources/Part4.txt has 4096 words and it's size is approximately 163840 bytes. 
+Dict from src/main/resources/Part5.txt has 3749 words and it's size is approximately 149960 bytes. 
+Dict from src/main/resources/Part6.txt has 4301 words and it's size is approximately 172040 bytes. 
+Dict from src/main/resources/Part7.txt has 4432 words and it's size is approximately 177280 bytes. 
+Dict from src/main/resources/Part8.txt has 4266 words and it's size is approximately 170640 bytes. 
+Dict from src/main/resources/Part9.txt has 4221 words and it's size is approximately 168840 bytes. 
+Dict from src/main/resources/Part10.txt has 4051 words and it's size is approximately 162040 bytes. 
+Dict from all files has 13785 words and it's size is approximately 551400 bytes. 
