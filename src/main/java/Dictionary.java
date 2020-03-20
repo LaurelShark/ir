@@ -1,4 +1,5 @@
 import com.google.common.collect.Sets;
+import sun.awt.windows.ThemeReader;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -15,6 +16,8 @@ import java.util.regex.Pattern;
 
 public class Dictionary {
 
+    public static final String TEST_PATTERN = "src/main/resources/test/Part%s.txt";
+
     public static final String FILE_PATTERN = "src/main/resources/Part%s.txt";
 
     public static final String STATISTIC_FILE = "src/main/resources/output/statistics.txt";
@@ -25,11 +28,11 @@ public class Dictionary {
 
     public static final String DICT_INFO = "Dict from %s has %s words and it's size is approximately %s bytes. \n";
 
-    public void createDictionary() {
+    public TreeMap<String, Integer> createDictionary() {
+        TreeMap<String, Integer> dict = new TreeMap<>();
         try {
-            TreeMap<String, Integer> dict = new TreeMap<>();
-            for (int i = 1; i < 11; i++) {
-                TreeMap<String, Integer> fileMap = getFileMap(String.format(FILE_PATTERN, i));
+            for (int i = 1; i < 4; i++) {
+                TreeMap<String, Integer> fileMap = getFileMap(String.format(TEST_PATTERN, i));
                 TreeMap<String, Integer> dictCopy = new TreeMap<>(dict);
                 dict = mergeMaps(dictCopy, fileMap);
             }
@@ -39,9 +42,10 @@ public class Dictionary {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        return dict;
     }
 
-    private TreeMap<String, Integer> getFileMap(String path) throws IOException {
+    protected TreeMap<String, Integer> getFileMap(String path) throws IOException {
         TreeMap<String, Integer> wordToOccurence = new TreeMap<>();
         try (BufferedReader br = Files.newBufferedReader(Paths.get(path))) {
             String line;

@@ -1,0 +1,1 @@
+[[ , and, are, cool, file, first, is, line, not, rap, this], [src/main/resources/test/Part2.txt, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1], [src/main/resources/test/Part3.txt, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0], [src/main/resources/test/Part1.txt, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1]]
