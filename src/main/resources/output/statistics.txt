@@ -405,3 +405,244 @@ Dict from all files has 10 words and it's size is approximately 400 bytes.
 Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
 Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
 Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from all files has 10 words and it's size is approximately 400 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part2.txt has 6 words and it's size is approximately 240 bytes. 
+Dict from src/main/resources/test/Part3.txt has 3 words and it's size is approximately 120 bytes. 
+Dict from src/main/resources/test/Part1.txt has 3 words and it's size is approximately 120 bytes. 

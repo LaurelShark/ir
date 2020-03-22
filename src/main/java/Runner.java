@@ -10,5 +10,8 @@ public class Runner {
         Search search = new Search();
         List<String> docs = search.matrixSearch("Cool OR is", incMatrix);
         System.out.println(docs);
+        InvertedIndex index = new InvertedIndex();
+        List<String> indexDocs = index.indexSearch("Cool OR is", dictionary);
+        System.out.println(indexDocs);
     }
 }

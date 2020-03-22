@@ -15,7 +15,7 @@ public class Search {
         return documents;
     }
 
-    // presume that we have validation (operators isn't on first or last position)
+    // presume that we have validation (operators aren't on first or last position)
     private List<String> getDocuments(String search, List<List<String>> matrix) {
         List<String> words = getWords(search);
         List<String> vectorsAndOr = getVectorsAndOr(words, matrix);
