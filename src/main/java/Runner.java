@@ -13,5 +13,11 @@ public class Runner {
         InvertedIndex index = new InvertedIndex();
         List<String> indexDocs = index.indexSearch("Cool OR is", dictionary);
         System.out.println(indexDocs);
+        List<String> indexDocs1 = index.indexSearch("Is AND file", dictionary);
+        System.out.println(indexDocs1);
+        List<String> indexDocs2 = index.indexSearch("Is AND NOT file", dictionary);
+        System.out.println(indexDocs2);
+        List<String> indexDocs3 = index.indexSearch("Is OR NOT file", dictionary);
+        System.out.println(indexDocs3);
     }
 }

@@ -54,17 +54,13 @@ public class InvertedIndex {
         for (int i = 0; i < words.size(); i++) {
             String word = words.get(i);
             if (!(word.equals("OR") || word.equals("AND") || word.equals("NOT"))) {
-                total.addAll(termToDocIds.values().stream()
-                                     .flatMap(list -> list.stream())
-                                     .collect(Collectors.toList()));
+                total.addAll(getDocListForTerm(total, termToDocIds, word));
             }
             if (word.equals("OR")) {
                 if (!words.get(i + 1).equals("NOT")) {
                     String nextTerm = words.get(i = i + 1).toLowerCase();
-                    total = Sets.union(termToDocIds.entrySet().stream()
-                    .filter(elem -> elem.getKey().equals(nextTerm))
-                    .flatMap(entry -> entry.getValue().stream())
-                    .collect(Collectors.toSet()), total);
+                    Set<Integer> nextTermSet = getDocListForTerm(total, termToDocIds, nextTerm);
+                    total = Sets.union(nextTermSet, total);
                 } else {
                     String termToNegate = words.get(i = i + 2).toLowerCase();
                     Set<Integer> notNegatedDocIds = termToDocIds.entrySet().stream()
@@ -80,10 +76,10 @@ public class InvertedIndex {
             if (word.equals("AND")) {
                 if (!words.get(i + 1).equals("NOT")) {
                     String nextTerm = words.get(i = i + 1).toLowerCase();
-                    total = Sets.intersection(termToDocIds.entrySet().stream()
-                                               .filter(elem -> elem.getKey().equals(nextTerm))
-                                               .flatMap(entry -> entry.getValue().stream())
-                                               .collect(Collectors.toSet()), total);
+                    Set<Integer> nextTermSet = getDocListForTerm(total, termToDocIds, nextTerm);
+                    // if exists -> nothing, if not exists -> clear total
+
+                    total = Sets.intersection(total, nextTermSet);
                 } else {
                     String termToNegate = words.get(i = i + 2).toLowerCase();
                     Set<Integer> notNegatedDocIds = termToDocIds.entrySet().stream()
@@ -98,6 +94,13 @@ public class InvertedIndex {
             }
         }
         return total;
+    }
+
+    private Set<Integer> getDocListForTerm(Set<Integer> total, Map<String, List<Integer>> termToDocIds, String term) {
+        return termToDocIds.entrySet().stream()
+                .filter(entry -> entry.getKey().equals(term.toLowerCase()))
+                .flatMap(entry -> entry.getValue().stream())
+                .collect(Collectors.toSet());
     }
 
     private Map<String, List<Integer>> createTermDocIdsMap(List<String> words, Map<Map<String, Integer>, List<Integer>> index) {
